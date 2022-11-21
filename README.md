@@ -49,10 +49,8 @@ jobs:
 
 ```
 **References**  
-* [Fireship youtube video](https://www.youtube.com/watch?v=eB0nUzAI7M8
-"5 Ways to DevOps-ify your App - Github Actions Tutorial")
-* [Github docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
-"Github workflow syntax")
+* <a href="https://www.youtube.com/watch?v=eB0nUzAI7M8" target="_blank" title="5 Ways to DevOps-ify your App - Github Actions Tutorial">Fireship youtube video</a>
+* <a href="https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions" target="_blank" title="Github workflow syntax">Github docs</a>
 
 
 
