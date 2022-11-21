@@ -14,7 +14,7 @@ This repo contains code samples and github actions workflow for the continuous i
 
 That's it :smile:, everytime there is an event that is specified in the workflow, for example a pull request to main branch, jobs specified in the workflow will run on a cloud vm.  
 
-if any errors in the ci it will be reported on the pull request page or we can also setup a slack/email/discord etc notification to developer.
+if there are any errors in the ci, it will be reported on the pull request page or we can setup a slack/email/discord etc notification to developer.
 
 **Detailed explanation of workflow yml file**
 
