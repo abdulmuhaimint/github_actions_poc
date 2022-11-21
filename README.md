@@ -1,6 +1,6 @@
 # Github actions PoC
 
-This repo contains code samples and github actions workflow for continuous integration of a nodejs project.  
+This repo contains code samples and github actions workflow for the continuous integration of a nodejs project.  
 
 **Tools used:**  
 * jest (A Javascript testing framework)
