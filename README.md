@@ -12,7 +12,7 @@ This repo contains code samples and github actions workflow for continuous integ
 2) define the workflow inside  that file.  
 3) push changes to git. 
 
-That's it :smile:, everytime there is an event that is specified in the workflow, for example a pull request to main branch, jobs specified in the workflow will run.  
+That's it :smile:, everytime there is an event that is specified in the workflow, for example a pull request to main branch, jobs specified in the workflow will run on a cloud vm.  
 
 if any errors in the ci it will be reported on the pull request page or we can also setup a slack/email/discord etc notification to developer.
 
@@ -48,6 +48,11 @@ jobs:
       - run: npm run build
 
 ```
+**References**  
+* [fireship youtube video](https://www.youtube.com/watch?v=eB0nUzAI7M8
+"5 Ways to DevOps-ify your App - Github Actions Tutorial")
+* [Github docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
+"Github workflow syntax")
 
 
 
