@@ -49,7 +49,7 @@ jobs:
 
 ```
 **References**  
-* [fireship youtube video](https://www.youtube.com/watch?v=eB0nUzAI7M8
+* [Fireship youtube video](https://www.youtube.com/watch?v=eB0nUzAI7M8
 "5 Ways to DevOps-ify your App - Github Actions Tutorial")
 * [Github docs](https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions
 "Github workflow syntax")
