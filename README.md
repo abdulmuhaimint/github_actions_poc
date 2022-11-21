@@ -33,7 +33,8 @@ jobs:
     # on which vm to run
     runs-on: ubuntu-latest
 
-    # steps of the job, with uses command we can use pre built github actions. here actions/checkout, actions/setup-node are two prebuilt actions available on the github actions marketplace.
+    # steps of the job, with uses command we can use pre built github actions.  
+    # here actions/checkout, actions/setup-node are two prebuilt actions available on the github actions marketplace.
     # actions/checkout is to copy our github repo to the vm
     # actions/setup-node as the name suggests is used to setup nodejs on the ci vm
     # run command for executing shell commands
